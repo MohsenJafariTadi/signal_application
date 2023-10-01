@@ -32,7 +32,7 @@ class BlogPageScreen extends StatelessWidget {
                   height: 20,
                 ),
                 TextButton(
-                  style: TextButton.styleFrom(prmary: Colors.red),
+                  style: TextButton.styleFrom(primary: Colors.red),
                   onPressed: () {
                     Navigator.pop(context);
                   },
