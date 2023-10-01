@@ -16,7 +16,7 @@ Widget getBlogPost({required String imageName, required String title}){
           fontWeight: FontWeight.bold,
         ),
       ),
-      const Row(
+       Row(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           SizedBox(
